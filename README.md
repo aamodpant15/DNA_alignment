@@ -12,5 +12,6 @@ Optional:
 <li>match</li>
 <li>mismatch</li>
 </ol>
+
 Values for match and mismatch are assumed to be `match = 1`, `mismatch = -1`.  
 If different values are required, add them in like so, `DNA(<str1>, <str2>, match = 2)`.
